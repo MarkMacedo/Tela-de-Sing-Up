@@ -1,0 +1,63 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background: linear-gradient(180deg, #B79891 0%, #94716B 123.44%);
+}
+
+p {
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.75);
+  margin-top: 25px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 34px;
+  line-height: bold;
+  text-align: center;
+  color: white;
+  margin-top: 165px;
+}
+
+input {
+  width: 342px;
+  height: 74px;
+  margin-bottom: 16px;
+  font-weight: 500;
+  font-size: 17px;
+  padding-left: 53px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  outline: none;
+}
+
+button {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  background: black;
+  width: 342px;
+  height: 74px;
+  border: none;
+  font-weight: bold;
+  font-size: 16px;
+  color: white;
+  cursor: pointer;
+}
+
+button:active {
+  opacity: 0.6;
+}
+
+a {
+  margin-top: 140px;
+  display: block;
+  text-align: center;
+  font-size: 14px;
+  color: white;
+  cursor: pointer;
+
+}
